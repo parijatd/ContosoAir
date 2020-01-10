@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/pardeb-Dev/ContosoAir/_apis/build/status/parijatd.ContosoAir?branchName=master)](https://dev.azure.com/pardeb-Dev/ContosoAir/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
